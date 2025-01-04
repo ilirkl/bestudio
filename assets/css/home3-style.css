@@ -88,7 +88,7 @@
     height: 100%;
     background-image: url(../imgs/header/bg-2.webp);
     background-size: cover;
-    background-position: left top; }
+    background-position: right top; }
 
 .header-ca .caption h1 {
   position: relative;
@@ -705,7 +705,7 @@ p {
   .right-side {
     width: 100%; }
   .header-ca .main-box {
-    padding-top: 140px; }
+    padding-top: 75px; }
   .header-ca .serv {
     margin-top: 10px; }
   .header-ca .awards .awards-swiper {
