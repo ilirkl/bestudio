@@ -6,8 +6,7 @@
       {
         "id": 135939,
         "filename": "dude were is my car",
-        "download_link": "https://dl.opensubtitles.org/en/download/sub/135939",
-        "date_uploaded": "2026-01-03 23:11:42"
+        "download_link": "https://dl.opensubtitles.org/en/download/sub/135939"
       }
     ],
     "yts_data": {
@@ -78,6 +77,7 @@
           "imdb_code": "0005452"
         }
       ]
-    }
+    },
+    "date_uploaded": "2026-01-03 23:11:42"
   }
-  }
+}
